@@ -18,7 +18,6 @@ def uber(String repoUrl){
                 echo "new demo"
             }
            }
-
         }
     }
 }
