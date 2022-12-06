@@ -18,7 +18,6 @@ def call(String repoUrl){
                 echo "new demo"
             }
            }
-
         }
     }
 }
